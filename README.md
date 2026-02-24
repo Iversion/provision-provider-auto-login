@@ -63,6 +63,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
  - [Harry Lewis](https://github.com/uphlewis)
  - [Roussetos Karafyllakis](https://github.com/RoussKS)
+ - [Eric Iversen](https://github.com/Iversion)
  - [All Contributors](../../contributors)
 
 ## License
