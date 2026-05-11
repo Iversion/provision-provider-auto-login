@@ -8,7 +8,7 @@ use Upmind\ProvisionBase\Laravel\ProvisionServiceProvider;
 use Upmind\ProvisionProviders\AutoLogin\Providers\Example\Provider as ExampleProvider;
 use Upmind\ProvisionProviders\AutoLogin\Providers\Generic\Provider as GenericProvider;
 use Upmind\ProvisionProviders\AutoLogin\Providers\SpamExperts\Provider as SpamExpertsProvider;
-use Upmind\ProvisionProviders\AutoLogin\Providers\SitePro\Provider as SiteproProvider;
+use Upmind\ProvisionProviders\AutoLogin\Providers\Sitepro\Provider as SiteproProvider;
 
 class LaravelServiceProvider extends ProvisionServiceProvider
 {
